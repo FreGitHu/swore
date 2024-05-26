@@ -1,5 +1,5 @@
 {
-  "name": "swore",
+  "name": "swore-framework",
   "version": "0.0.1",
   "description": "A web render framework, i swore it was better.",
   "main": "dist/index.js",
