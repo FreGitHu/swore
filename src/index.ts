@@ -1,5 +1,7 @@
 import { Component } from "./component"
 export { Component }
+import { TextComponent} from "./components/text";
+export { TextComponent }
 
 console.log("[ℹ️] Swore Starting!")
 
